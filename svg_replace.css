@@ -1,6 +1,6 @@
 /* 🎁 Gift Inventory */
-:root .emptyStateImage__3e0a5,
-:root .emptyWumpus__67af4 {
+:root .emptyStateImage_d4883c,
+:root .emptyWumpus_adb41f {
   background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
 }
 
@@ -25,7 +25,7 @@
 /* 🍵 Wumpus Tea Party */
 [style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
 [style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
-.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
-.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
+.theme-dark .notFriends_cba592 .errorStateIcon_cba592,
+.theme-light .notFriends_cba592 .errorStateIcon_cba592 {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
 }
